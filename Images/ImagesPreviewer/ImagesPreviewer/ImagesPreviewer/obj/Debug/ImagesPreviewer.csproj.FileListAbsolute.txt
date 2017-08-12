@@ -1,0 +1,15 @@
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\ImagesPreviewer.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\ImagesPreviewer.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\Xamarin.Forms.Core.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\Xamarin.Forms.Platform.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\Xamarin.Forms.Core.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\Xamarin.Forms.Core.xml
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\Xamarin.Forms.Platform.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\Xamarin.Forms.Xaml.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\obj\Debug\ImagesPreviewer.csprojResolveAssemblyReference.cache
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\obj\Debug\ImagesPreviewer.MainPage.xaml.g.cs
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\obj\Debug\ImagesPreviewer.App.xaml.g.cs
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\obj\Debug\ImagesPreviewer.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\obj\Debug\ImagesPreviewer.pdb
