@@ -1,0 +1,2 @@
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer.UWP\ImagesPreviewer.UWP.csproj;x86
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Images\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer\ImagesPreviewer.csproj;neutral
