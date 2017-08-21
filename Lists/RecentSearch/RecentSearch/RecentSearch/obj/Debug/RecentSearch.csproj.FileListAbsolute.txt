@@ -1,0 +1,16 @@
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\RecentSearch.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\RecentSearch.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\Xamarin.Forms.Core.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\Xamarin.Forms.Platform.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\Xamarin.Forms.Core.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\Xamarin.Forms.Core.xml
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\Xamarin.Forms.Platform.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\Xamarin.Forms.Xaml.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\obj\Debug\RecentSearch.csprojResolveAssemblyReference.cache
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\obj\Debug\RecentSearch.csproj.CoreCompileInputs.cache
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\obj\Debug\RecentSearch.MainPage.xaml.g.cs
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\obj\Debug\RecentSearch.App.xaml.g.cs
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\obj\Debug\RecentSearch.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\Lists\RecentSearch\RecentSearch\RecentSearch\obj\Debug\RecentSearch.pdb
