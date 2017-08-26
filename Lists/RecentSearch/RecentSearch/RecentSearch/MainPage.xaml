@@ -5,14 +5,24 @@
              x:Class="RecentSearch.MainPage">
 
     <StackLayout>
-        <SearchBar/>
+        <SearchBar
+            x:Name="ListSearchBar"
+            TextChanged="ListSearchBar_TextChanged"
+            Placeholder="Type the Location ex:Holly Wood"/>
         <ListView 
             x:Name="RecentSearchList"
             IsGroupingEnabled="True"
-            GroupDisplayBinding="{Binding GroupTitle}">
+            GroupDisplayBinding="{Binding GroupTitle}"
+            IsPullToRefreshEnabled="True"
+            Refreshing="RecentSearchList_Refreshing"
+            ItemSelected="RecentSearchList_ItemSelected">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding Location}" Detail="{Binding Period}"/>
+                    <TextCell Text="{Binding Location}" Detail="{Binding Period}">
+                        <TextCell.ContextActions>
+                            <MenuItem Text="Delete"  x:Name="Delete"  Clicked="Delete_Clicked"  CommandParameter="{Binding .}"/>
+                        </TextCell.ContextActions>
+                    </TextCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
