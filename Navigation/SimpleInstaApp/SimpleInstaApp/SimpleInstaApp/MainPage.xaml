@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:SimpleInstaApp"
+             BarBackgroundColor="White"
+             BarTextColor="Black"
+             NavigationPage.HasNavigationBar="False"
              x:Class="SimpleInstaApp.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <TabbedPage.Children>
+        <local:ActivityPage Title="Activity" Icon="heart.png"/>
+        <local:ProfilePage Title="Profile " Icon="user.png"/>
+    </TabbedPage.Children>
 
-</ContentPage>
+</TabbedPage>

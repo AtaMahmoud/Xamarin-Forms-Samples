@@ -13,7 +13,7 @@ namespace SimpleInstaApp {
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("G:\\Pro\\Xamarin\\Xamarin-Forms-Samples\\Xamarin-Forms-Samples\\Navigation\\SimpleInsta" +
         "App\\SimpleInstaApp\\SimpleInstaApp\\MainPage.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    public partial class MainPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
