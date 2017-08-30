@@ -1,0 +1,17 @@
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\ContactBook.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\ContactBook.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\Xamarin.Forms.Core.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\Xamarin.Forms.Platform.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\Xamarin.Forms.Core.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\Xamarin.Forms.Core.xml
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\Xamarin.Forms.Platform.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\Xamarin.Forms.Xaml.pdb
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.csprojResolveAssemblyReference.cache
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.App.xaml.g.cs
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.Views.Contacts.xaml.g.cs
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.Views.ContactDetail.xaml.g.cs
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.dll
+G:\Pro\Xamarin\Xamarin-Forms-Samples\Xamarin-Forms-Samples\FormsAndSettingPages\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.pdb

@@ -13,7 +13,7 @@ namespace ContactBook
         {
             InitializeComponent();
 
-            MainPage = new ContactBook.MainPage();
+            MainPage = new NavigationPage(new Contacts());
         }
 
         protected override void OnStart()
